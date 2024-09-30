@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4613b6b2.css",
+    "main.js": "/static/js/main.367f3ccd.js",
+    "static/js/453.37753ddd.chunk.js": "/static/js/453.37753ddd.chunk.js",
+    "static/media/nd.jpg": "/static/media/nd.f29bf073741d658761b9.jpg",
+    "static/media/india-tourism.jpg": "/static/media/india-tourism.7129192c5d7588775b70.jpg",
+    "index.html": "/index.html",
+    "main.4613b6b2.css.map": "/static/css/main.4613b6b2.css.map",
+    "main.367f3ccd.js.map": "/static/js/main.367f3ccd.js.map",
+    "453.37753ddd.chunk.js.map": "/static/js/453.37753ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4613b6b2.css",
+    "static/js/main.367f3ccd.js"
+  ]
+}
